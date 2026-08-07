@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1781424000,
+      "filename": "iode-7.5-20260614-Pong.zip",
+      "id": "YOUR_ZIP_SHA256_HASH_HERE",
+      "romtype": "unofficial",
+      "size": 2147483648,
+      "url": "https://sourceforge.net",
+      "version": "7.5"
+    }
+  ]
+}
